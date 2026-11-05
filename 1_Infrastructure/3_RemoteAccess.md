@@ -1,4 +1,4 @@
-# Phase 3: Remote Access
+# Remote Access
 
 With Chamilo successfully deployed, I wanted to ensure I could continue my research without being restricted to my home network. This meant finding a way to securely access both the Chamilo web application and my server's SSH service over the Internet.
 

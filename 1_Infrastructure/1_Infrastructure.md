@@ -1,4 +1,4 @@
-# Phase #1: Infrastructure 10/4 - 10/6
+# Acquire Hardware
 
 This project originated from me wanting a homelab and also for my senior capstone project. I decided, why not kill two birds with one stone? I could use a machine to both host the LMS I'm going to perform a security assessment on, as well as use it to self-host services and projects, such as VPNs, file servers, a DHCP server, a web server, and whatever else I may want to work with.
 

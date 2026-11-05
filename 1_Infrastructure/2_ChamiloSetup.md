@@ -1,4 +1,4 @@
-# Phase 2: Chamilo Setup
+# Original Chamilo 2.0 Setup, Configuration & Troubles
 
 Now that the underlying infrastructure was ready to go, it was finally time to clone the repository and get the LMS hosted on Apache2 so I could begin my investigation.
 
