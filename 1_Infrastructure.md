@@ -49,6 +49,6 @@ I tested connectivity by pinging a couple of sites, and everything worked flawle
 
 I'm not entirely sure why I didn't do this sooner, considering it only took a couple of hours and wasn't exactly difficult.
 
-Next was to begin applying the concepts I've learned while studying for my CompTIA Security+ exam.
+Next was to begin applying the concepts I've learned while studying for my CompTIA Security+ exam, below is a picture of the final setup. 
 
-This should be very fun!
+![An image of my homelab setup](/Pictures/setup.png)
