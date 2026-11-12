@@ -142,7 +142,7 @@ This provides an additional layer of access restriction by limiting which system
 
 However, IP-based filtering does not replace secure authentication. It is simply one component of a broader defense-in-depth strategy.
 
-**Important:** When implementing these rules on a remotely administered system, the necessary SSH exceptions should be configured and verified before enabling the firewall to avoid accidentally locking yourself out.
+**Important:** When implementing these rules on a remotely administered system, the necessary SSH exceptions should be configured and verified before enabling the firewall to avoid accidentally locking yourself out, learned that the hard way!
 
 ### Allowing DNS Resolution
 
